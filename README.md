@@ -1,2 +1,2 @@
 # Wifi-Wins-Mono
-Combine wifi and visual slam to locate
+Combine wifi and visual slam for locating
